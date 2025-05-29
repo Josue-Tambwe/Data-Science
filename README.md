@@ -7,3 +7,4 @@ Dans ce projet, sont considérées comme acquises certaines notions de base de l
 ### 1. *Numpy* : 
 présentation du module Numpy pour les calculs vectoriel et matriciel, avec des méthodes les plus utilisées.
 ### Pandas : 
+Il s'agit d'une bibliothèque construite à partir de Numpy et fournit une implémentation éfficace de la ***dataframe***
