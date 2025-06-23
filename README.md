@@ -13,6 +13,6 @@ Pour la visualisation des données (data visualization), notamment les graphes d
 Ce package est compatible avec les tableaux de Numpy.
 ### 4. *Seaborn* : 
 Dans le même ordre d'idées de la visualisation des donnnées, contrairement à la bibliothèque précédente (Matplotlib), Searborn est compatible avec la bibliothèque Pandas (pour les données étiquettées : séries et dataframes) et permet la réalisation des graphiques aussi pertinantes qu'agréables tout en réduisant les instructions généralement en **une seule ligne de code** (plus compacte), où Matplotlib en  nécessitait plusieurs.  
-### 5. *Préparation des données* (Preprocessing) : 
-Cette partie traite le nettoyage, la normalisation des données, le traitement des valeurs manquantes et aberrantes, la séparation des données en ensembles d'entrainnement, de validation et  de test, etc...Dans le contexte de l'apprentissage suppervisé d'un modèle de classification où la variable à prédire est catégorielle (qualitative). Toutefois, les préparations des données pour les autres modèles reste généralement similaires.
-### 6. **Modélisation** : 
+### 5. Apprentissage Supervisé : 
+1. Bank_loan : modèle de classification qui consiste à prédire le statut d'**attribution** ou **non** d'un prêt bancaire à un individu. Une partie (preprocessing) est consacrée à la prépartation des données et aux analyses univariée et bivariée des variables.Les algorithmes utilisés sont **K-Nearest Neighbors** et La **régression logistique**. 
+2. 
